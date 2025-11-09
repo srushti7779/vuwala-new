@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "service_name": "",
+  "image": "",
+  "price": "",
+  "sub_category_id": "",
+  "duration": "",
+  "home_visit": "",
+  "service_for": "",
+  "description": "",
+  "is_parent_service": "",
+  "store_service_type_id": "",
+  "is_price_range": "",
+  "from_price": "",
+  "to_price": "",
+  "multi_selection": "",
+  "is_product_required": "",
+  "sub_services_json": [
+    {
+      "service_name": "",
+      "price": "",
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+[
+    {
+        "outlet_location":"kphb",
+        "manager_name":"John Doe",
+        "mobile_number":"1234567890"
+    },
+    {
+        "outlet_location":"sec-bad",
+        "manager_name":"sai Doe",
+        "mobile_number":"9848012345"
+    }
+]

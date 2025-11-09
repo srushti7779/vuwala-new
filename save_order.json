@@ -1,0 +1,19 @@
+[
+    {
+        "service_id": 9040,
+        "no_of_visits": 1,
+        "next_visit_details": [
+            {
+                "date": "2025-07-02",
+                "time": "18:34"
+            }
+        ],
+        "mode_of_amount_collection": 1,
+        "amount": 1500
+    }
+]
+
+
+
+
+

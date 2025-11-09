@@ -1,0 +1,29 @@
+{
+    "id":"",
+    "main_category_id": 1,
+    "position": 2,
+    "type_id": 5,
+    "sort_order": 1,
+    "views_count": 0,
+    "title": "Summer Sale Banner",
+    "description": "Big discounts available this summer!",
+    "image": "banner-summer.jpg",
+    "start_date": "2025-08-01",
+    "end_date": "2025-08-15",
+    "is_top_banner": "1",
+    "is_pop_up_banner": "0",
+    "banner_timings": [
+        {
+            "start_time": "09:00",
+            "end_time": "18:00"
+        },
+        {
+            "start_time": "19:00",
+            "end_time": "22:00"
+        },
+        {
+            "start_time": "23:00",
+            "end_time": "01:00"
+        }
+    ]
+}

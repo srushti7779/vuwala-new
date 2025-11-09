@@ -1,0 +1,31 @@
+{
+  "sku_id": "",
+  "sku_code": "",
+  "product_name": "",
+  "brand_id ": "",
+  "ean_code": "",
+  "category_id ": "",
+  "store_service_type_id ": "",
+  "product_type_id ": "",
+  "uom_id ": "",
+  "mrp_price": "",
+  "selling_price": "",
+  "tax_rate": "",
+  "re_order_level_for_alerts": "",
+  "uom_id_re_order_level ": "",
+  "min_quantity_need": "",
+  "description": "text",
+  "image": "",
+  "u_o_m_hierarchy": [
+    {
+      "units_id": "",
+      "quantity": "",
+      "of_units_id ": ""
+    },
+    {
+      "units_id": "",
+      "quantity": "",
+      "of_units_id ": ""
+    }
+  ]
+}

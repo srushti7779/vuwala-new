@@ -1,0 +1,23 @@
+{
+  "contact_no": "6281684605",
+  "full_name": "sai pavan",
+  "email": "spvn81@gmail.com",
+  "service_payment_type":"1",
+  "staff_id": "9008",
+  "service_ids": [
+    {
+      "service_id": "9008"
+    },
+    {
+      "service_id": "8993"
+    }
+  ],
+  "combo_combo_packages_ids": [
+    {
+      "combo_combo_package_id": "25"
+    },
+    {
+      "combo_combo_package_id": "26"
+    }
+  ]
+}

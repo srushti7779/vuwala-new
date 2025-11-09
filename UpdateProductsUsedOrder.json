@@ -1,0 +1,17 @@
+{
+    "orderId": "1",
+    "products_used": [
+        {
+            "product_id": "101",
+            "service_id": "1",
+            "quantity": "1",
+            "uom_id": "1"
+        },
+        {
+            "product_id": "102",
+            "service_id": "2",
+            "quantity": "1",
+            "uom_id": "1"
+        }
+    ]
+}

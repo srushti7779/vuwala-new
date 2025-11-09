@@ -1,0 +1,53 @@
+{
+        "store_timing_data": [
+    {
+            "store_timings_id": 2090,
+            "day": "Monday",
+            "start_time": "10:00:00",
+            "close_time": "18:00:00",
+            "status": 1
+        },
+        {
+            "store_timings_id": 2091,
+            "day": "Tuesday",
+            "start_time": "10:00:00",
+            "close_time": "18:00:00",
+            "status": 1
+        },
+        {
+            "store_timings_id": 2092,
+            "day": "Wednesday",
+            "start_time": "10:00:00",
+            "close_time": "18:00:00",
+            "status": 1
+        },
+        {
+            "store_timings_id": 2093,
+            "day": "Thursday",
+            "start_time": "10:00:00",
+            "close_time": "18:00:00",
+            "status": 1
+        },
+        {
+            "store_timings_id": 2094,
+            "day": "Friday",
+            "start_time": "10:00:00",
+            "close_time": "18:00:00",
+            "status": 1
+        },
+        {
+            "store_timings_id": 2095,
+            "day": "Saturday",
+            "start_time": "10:00:00",
+            "close_time": "18:00:00",
+            "status": 1
+        },
+        {
+            "store_timings_id": 2096,
+            "day": "Sunday",
+            "start_time": "10:00:00",
+            "close_time": "18:00:00",
+            "status": 1
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+  "coupon_type": "1",
+  "name": "test name",
+  "description": "test description",
+  "code": "testCode",
+  "discount_type": "1",
+  "discount": "10",
+  "max_discount": "100",
+  "min_order_amount": "100",
+  "usage_limit_per_customer": "1",
+  "start_date": "2023-01-01",
+  "start_time": "10:00:00",
+  "end_date": "2023-12-31",
+  "end_time": "23:59:59",
+  "offer_type": "1",
+  "daily_redeem_limit": "5",
+  "status": "1",
+  "is_new_customer_offer": "1",
+  "is_auto_apply_offer": "0",
+  "service_ids": [
+    {
+      "service_id": "service1"
+    },
+    {
+      "service_id": "service2"
+    }
+  ],
+  "coupon_has_time_slots": [
+    {
+      "start_time": "10:00:00",
+      "end_time": "12:00:00",
+      "coupon_has_days": [
+        { "day": "Monday" },
+        { "day": "Tuesday" },
+        { "day": "Wednesday" },
+        { "day": "Thursday" },
+        { "day": "Friday" },
+        { "day": "Saturday" },
+        { "day": "Sunday" }
+      ]
+    },
+    {
+      "start_time": "14:00:00",
+      "end_time": "16:00:00",
+      "coupon_has_days": [
+        { "day": "Monday" },
+        { "day": "Tuesday" },
+        { "day": "Wednesday" },
+        { "day": "Thursday" },
+        { "day": "Friday" },
+        { "day": "Saturday" },
+        { "day": "Sunday" }
+      ]
+    }
+  ]
+}

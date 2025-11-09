@@ -1,0 +1,26 @@
+[
+  {
+    "staff_id":"1",
+    "mobile_no": "9876543210",
+    "full_name": "John Doe",
+    "email": "john@example.com",
+    "gender": "1",
+    "dob": "1995-08-11",
+    "profile_image": "",
+    "experience": "2",
+    "specialization": "Hair",
+    "aadhaar_number": "123456789012"
+  },
+  {
+    "staff_id":"",
+    "mobile_no": "9998887776",
+    "full_name": "Jane Smith",
+    "email": "jane@example.com",
+    "gender": "2",
+    "dob": "1990-01-01",
+    "profile_image": "",
+    "experience": "3",
+    "specialization": "Makeup",
+    "aadhaar_number": "987654321012"
+  }
+]

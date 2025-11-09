@@ -1,0 +1,17 @@
+{
+  "user_id": "1",
+  "items": [
+    {
+      "service_order_id": "",
+      "product_id": "11",
+      "batch_number": "abcd",
+      "quantity": "100"
+    },
+    {
+      "service_order_id": "",
+      "product_id": "12",
+      "batch_number": "test_batch",
+      "quantity": "50"
+    }
+  ]
+}

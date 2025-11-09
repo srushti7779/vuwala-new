@@ -1,0 +1,13 @@
+{
+  "order_id": "3197",
+  "services": [
+    {
+      "service_id": 9474,
+      "total_price": 1000
+    },
+    {
+      "service_id": 9475,
+      "total_price": 2000
+    }
+  ]
+}

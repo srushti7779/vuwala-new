@@ -1,0 +1,17 @@
+$expectedHeaders = [
+    'first_name',
+    'last_name',
+    'username',
+    'contact_no',
+    'email',
+    'business_name',
+    'description',
+    'website_link',
+    'latitude',
+    'longitude',
+    'address',
+    'gst_number',
+    'logo',
+    'account_number',
+    'ifsc_code'
+];

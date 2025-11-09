@@ -1,0 +1,19 @@
+[
+    {
+        "product_id": 1,
+        "uom_id": 1,
+        "quantity": 10,
+        "batch_number": "BATCH001",
+        "wastage_type": "1",
+        "reason_for_wastage": "Damaged during transit"
+
+    },
+    {
+        "product_id": 2,
+        "uom_id": 1,
+        "quantity": 5,
+        "batch_number": "BATCH002",
+        "wastage_type": "1",
+        "reason_for_wastage": "Damaged during transit"
+    }
+]
